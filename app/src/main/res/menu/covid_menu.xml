@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/item1"
+        android:title="@string/MusicApp"
+        android:icon="@drawable/music"
+        android:orderInCategory="100"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/item2"
+        android:title="@string/RecipeApp"
+        android:icon="@drawable/cook"
+        android:orderInCategory="51"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/item3"
+        android:title="@string/LoginPage"
+        android:icon="@drawable/covid"
+        android:orderInCategory="20"
+        app:showAsAction="always" />
+
+    <item android:id="@+id/item4"
+        android:title="@string/TicketApp"
+        android:icon="@drawable/ticket"
+        app:showAsAction="always"/>
+
+
+    <item android:id="@+id/item5"
+        android:title="@string/SavedList"
+        android:icon="@drawable/save"
+        android:orderInCategory="400"
+        app:showAsAction="never" />
+
+    <item android:id="@+id/itemHelp"
+        android:title="@string/Help"
+        android:icon="@drawable/info"
+        android:orderInCategory="500"
+        app:showAsAction="never" />
+
+
+
+
+
+</menu>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Project2021</string>
+    <string name="covid">IR A COVID 19 APP</string>
+    <string name="covidinfo">Haga clic en el botón de abajo para ir a la aplicación</string>
+    <string name="countryName">Nombre del país</string>
+    <string name="fromDate">A partir de la fecha</string>
+    <string name="toDate">Hasta la fecha</string>
+    <string name="Submit">Enviar</string>
+    <string name="Saved">IR A LA LISTA DE COVID 19 GUARDADA</string>
+    <string name="title">COVID 19</string>
+    <string name="open">abierta</string>
+    <string name="close">cerrar</string>
+    <string name="db_success">éxito de la base de datos: elemento de Covid guardado</string>
+    <string name="db_failure">Fallo de la base de datos</string>
+    <string name="Help">Ayuda</string>
+    <string name="SavedList">Lista guardada</string>
+    <string name="TicketApp">Aplicación de entradas</string>
+    <string name="LoginPage"> Covid Página de inicio de sesión</string>
+    <string name="RecipeApp">Aplicación de recetas</string>
+    <string name="MusicApp">Aplicación de música</string>
+    <string name="Cases">Casos:</string>
+    <string name="By">Por: Kim Johnson</string>
+    <string name="Version">Versión 2.1</string>
+    <string name="CovidTask">Tarea Covid</string>
+    <string name="SE">Entradas guardadas</string>
+    <string name="Search">Búsqueda</string>
+
+</resources>
